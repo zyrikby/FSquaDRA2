@@ -22,8 +22,10 @@ The results of our research will be presented at the [21st Nordic Conference on 
 ```
 
 ## Repository Structure
-
+The repository has two main files:
+ * metrics.py - this is a library that provides different similarity metrics. It is a Python port of a part of Java [SimMetrics](https://github.com/Simmetrics/simmetrics) library.
+ * resource_score_extractor.py - is the main program that is able to compute different similarity scores on files constituting Android package. It exploits the metrics.py library to compute similarity scores.  
 
 
 ## Usage
-
+The tool is written using Python 2.7 and tested on Kubuntu 16.04 operating system. Run `python resource_score_extractor.py -h` to see the program help.
