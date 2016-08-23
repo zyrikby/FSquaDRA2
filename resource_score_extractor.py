@@ -541,9 +541,9 @@ if __name__ == '__main__':
     
     
 #     print parser.print_help()
-    args = parser.parse_args(["-m", "Jaccard", "/home/yury/tmp/apps_example/", "/home/yury/results.csv"])
-    print args
-#     args = parser.parse_args()
+#     args = parser.parse_args(["-m", "Jaccard", "/home/yury/tmp/apps_example/", "/home/yury/results.csv"])
+#     print args
+    args = parser.parse_args()
     main(args)
     
     
