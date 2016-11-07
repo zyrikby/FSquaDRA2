@@ -16,7 +16,7 @@ The results of our research will be presented at the [21st Nordic Conference on 
     title = {{Evaluation of Resource-based App Repackaging Detection in Android}},
     booktitle = {Proceedings of the 21st Nordic Conference on Secure IT Systems},
     series = {NordSec 2016},
-    pages = {to appear},
+    pages = {135--151},
     year = {2016},
 }
 ```
