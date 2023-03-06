@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our paper."
+preferred-citation:
+  title: "Evaluation of Resource-based App Repackaging Detection in Android"
+  type: conference-paper
+  authors:
+  - family-names: "Gadyatskaya"
+    given-names: "Olga"
+  - family-names: "Lezza"
+    given-names: "Andra-Lidia"
+  - family-names: "Zhauniarovich"
+    given-names: "Yury"
+  conference:
+    name: "21st Nordic Conference on Secure IT Systems"
+  doi: "10.1007/978-3-319-47560-8_9"
+  start: 135 # First page number
+  end: 151 # Last page number
+  year: 2016
