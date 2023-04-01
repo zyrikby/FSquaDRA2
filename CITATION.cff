@@ -10,8 +10,10 @@ preferred-citation:
     given-names: "Andra-Lidia"
   - family-names: "Zhauniarovich"
     given-names: "Yury"
+  collection-title: "21st Nordic Conference on Secure IT Systems"
+  collection-type: "proceedings"
   conference:
-    name: "21st Nordic Conference on Secure IT Systems"
+    name: "NordSec"
   doi: "10.1007/978-3-319-47560-8_9"
   start: 135 # First page number
   end: 151 # Last page number
